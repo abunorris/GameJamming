@@ -1,0 +1,4 @@
+NAME, 		HEALTH,		ATTACK INTERVAL		GESTURES			
+Enemy1, 	1000,		3, 7,				A,
+Enemy2, 	2000,		2, 6,				A, B
+Enemy3, 	5000,		2, 5,				A, B, C

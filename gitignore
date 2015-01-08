@@ -1,0 +1,64 @@
+# Xcode
+build/*
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xcworkspace
+!default.xcworkspace
+xcuserdata
+profile
+*.moved-aside
+
+# Mac
+.DS_Store
+*.DS_Store
+**/.DS_Store
+**/**/.DS_Store
+
+# Git Conflicts
+*.BASE
+*.MINE
+*.OTHER
+
+# Unity
+*.csproj
+*/*csproj
+*.sln
+*.vcproject
+*.pidb
+*.csproj
+*.exe
+
+# monodevelop project files
+Project/Library
+Project/Temp
+Project/Assembly-CSharp-Editor-vs.csproj
+Project/Assembly-CSharp-Editor.csproj
+Project/Assembly-CSharp-firstpass-vs.csproj
+Project/Assembly-CSharp-firstpass.pidb
+Project/Assembly-CSharp-vs.csproj
+Project/Assembly-CSharp.csproj
+Project/Assembly-CSharp.pidb
+Project/Assembly-UnityScript.pidb
+Project/assembly-csharp-firstpass.csproj
+Project/assembly-unityscript-vs.unityproj
+Project/assembly-unityscript.unityproj
+Project/Assembly-UnityScript-Editor-firstpass-vs.unityproj
+Project/Assembly-UnityScript-Editor-firstpass.unityproj
+Project/Assembly-UnityScript-firstpass-vs.unityproj
+Project/Assembly-UnityScript-firstpass.unityproj
+Project/Assembly-UnityScript-vs.unityproj
+Project/Assembly-UnityScript.unityproj
+Project/SlotsUnity.userprefs
+Project/Assembly-Boo-vs.booproj
+Project/Assembly-Boo.booproj
+Project/Builds
+Project/LocalCache
+Project/LocalCache
+Project/Assets/Jemast
+Project/user.keystore
